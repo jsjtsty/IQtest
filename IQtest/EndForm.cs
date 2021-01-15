@@ -20,5 +20,15 @@ namespace IQtest
         {
             Application.Exit();
         }
+
+        private void EndForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void EndForm_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

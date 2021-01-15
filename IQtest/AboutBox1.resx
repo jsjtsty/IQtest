@@ -601,8 +601,8 @@
 </value>
   </data>
   <data name="textBoxDescription.Text" xml:space="preserve">
-    <value>IQtest V1.0.3.3 - Based on V1.0.3.2
-2021-1-10 重置版
+    <value>IQtest V1.0.3.4 - Based on V1.0.3.2
+2021-1-15 重制版
 修复了若干bug，使游戏进程更加顺滑。
 谨以此致敬我们纯真而美好的童年。
 
@@ -613,6 +613,7 @@ CH ChengHao
 
 开放源代码声明：
 本程序于2021.1.10开放源代码，使用请遵守 The MIT License.
+为了最大程度保留原程序风格，仅做了必要的bug修复，没有对原本代码进行太大改动（同时保留了一些bug）.
 
 下面是原版介绍：
 IQTest V1.0.3.2
